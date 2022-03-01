@@ -5,4 +5,4 @@ I'm Tuya, frontend dev from houston, TX.
 .js, .html, .css, .svg, .psd, .ai
 
 📫 How to reach me:
-Twitter: @treki64839357
+Twitter: @TuyaSenff
