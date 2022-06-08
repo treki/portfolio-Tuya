@@ -17,6 +17,8 @@ em {
     display: inline-flex;
     flex-direction: column;
     color: #1D263B;
+    width: auto;
+   
 }
 
 .card:not(:last-child) {
